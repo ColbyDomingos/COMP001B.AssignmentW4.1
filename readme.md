@@ -6,5 +6,8 @@
 
 ------> Demonstrate ability to use color effectively 
 
-Inspirations: KRH = https://www.krhsd.k12.ca.us/ (MAIN)
-              Hanford Christian = https://www.hanfordchristian.org/ 
+Inspirations: 
+
+KRH = https://www.krhsd.k12.ca.us/ (MAIN)
+
+Hanford Christian = https://www.hanfordchristian.org/ 
