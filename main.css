@@ -1,7 +1,53 @@
+main{
+    margin-top: 50px;
+}
+
+main #welcome{
+    text-align: center;
+    color: goldenrod;
+    font-family:Arial, Helvetica, sans-serif
+    
+}
+
+main #declaration{
+    background-color:aliceblue;
+
+    text-align: center;
+    color: goldenrod;
+    font-family:Arial, Helvetica, sans-serif
+
+}
+
+#pageTop{
+
+    height: 400px;
+
+    
+    background-color: brown;
+    background-repeat: no-repeat;
+
+    border: 2px solid goldenrod;
+    border-radius: 30px;
+
+    img{
+        border: 3px solid goldenrod;
+        border-radius: 40%;
+        padding: 5px;
+        
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+
 /* Here down for topnav*/ 
 .topnav {
     background-color: goldenrod;
     overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 
 .topnav a {
@@ -15,10 +61,11 @@
 
 .topnav a:hover{
     background-color: white;
-    color: black;
+    color: brown;
 }
 
 .topnav a.active {
     background-color: white;
     color: black;
 }
+
